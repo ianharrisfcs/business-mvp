@@ -59,7 +59,7 @@ export default function Results() {
             No Assessment Data Found
           </h1>
           <p className="text-gray-600 dark:text-gray-300 mb-8">
-            It looks like you haven't completed the assessment yet. Please start the assessment to see your results.
+            It looks like you haven&apos;t completed the assessment yet. Please start the assessment to see your results.
           </p>
           <Link
             href="/assessment"
@@ -106,7 +106,7 @@ export default function Results() {
             Your Business Assessment Results
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Here's a summary of your business idea and key details. This information will be used to generate your personalized business validation scorecard.
+            Here&apos;s a summary of your business idea and key details. This information will be used to generate your personalized business validation scorecard.
           </p>
         </div>
 
